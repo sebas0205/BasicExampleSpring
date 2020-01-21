@@ -85,6 +85,6 @@
     <finalName>springapp</finalName>
   </build>
   <properties>
-  	<org.springframework.version>5.1.9.RELEASE</org.springframework.version>
+  	<org.springframework.version>5.2.3.RELEASE</org.springframework.version>
   </properties>
 </project>
